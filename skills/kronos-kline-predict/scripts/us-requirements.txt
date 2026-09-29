@@ -1,0 +1,3 @@
+yfinance>=1.7.0,<2
+exchange_calendars>=4.13.2,<5
+curl_cffi>=0.15,<1

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kronos 模型训练"
+  short_description: "复用原项目微调 Tokenizer、Predictor 和 Qlib/CSV 训练流程"
+  default_prompt: "使用 $kronos-training，按原 Kronos-master 流程检查我的数据和配置，训练适配该行情的 Tokenizer 与 Predictor，并保存 checkpoint 和日志。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kronos K线预测"
+  short_description: "预测日线及一、五、十五、三十分钟走势，核验行情并标明涨跌时段"
+  default_prompt: "使用 $kronos-kline-predict，预测我指定股票和日期的盘中走势，默认五分钟线；主动核验行情，输出分时涨跌区间及原始预测数据。"

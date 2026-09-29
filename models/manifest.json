@@ -1,0 +1,10 @@
+{
+  "NeoQuasar/Kronos-Tokenizer-base": {
+    "revision": "0e0117387f39004a9016484a186a908917e22426",
+    "path": "./models/Kronos-Tokenizer-base"
+  },
+  "NeoQuasar/Kronos-small": {
+    "revision": "901c26c1332695a2a8f243eb2f37243a37bea320",
+    "path": "./models/Kronos-small"
+  }
+}

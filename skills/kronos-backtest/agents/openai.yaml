@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kronos 原项目回测"
+  short_description: "复用原项目 Qlib、CSV 策略和回归测试，核对回测来源与基准"
+  default_prompt: "使用 $kronos-backtest，按原 Kronos-master 项目的回测实现选择正确入口，检查数据与依赖，并报告策略、基准和实际验证范围。"

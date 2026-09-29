@@ -1,0 +1,2 @@
+akshare>=1.18.97
+exchange_calendars>=4.13.2

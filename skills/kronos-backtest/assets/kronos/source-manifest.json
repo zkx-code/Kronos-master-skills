@@ -1,0 +1,63 @@
+{
+  "source_root": "E:\\K线预测\\Kronos-master",
+  "upstream_url": "https://github.com/shiyu-coder/Kronos",
+  "snapshot_time": "2026-09-22T13:33:48.001195+08:00",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "acb2d194d378204e5f2be4dcd24d39ecac437903620c790c3315a96dab388fdc"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "b68eaa2f945d6a5726e3642ce5d6c82014b33a09c3c1bd6302f2c530db22593e"
+    },
+    {
+      "path": "model/__init__.py",
+      "sha256": "f8f856ca3fedadcaac97e196be23d1aeda1c3c9ffe8903d66d43ea3bcac6240c"
+    },
+    {
+      "path": "model/kronos.py",
+      "sha256": "0a5f90282e2039c2de0771473419715c845def154896dbd0f5747837e6241032"
+    },
+    {
+      "path": "model/module.py",
+      "sha256": "a07edbadc0e96804c8158c021bbc6063bb7cc43b34d7fc470d5c8ff2005a409f"
+    },
+    {
+      "path": "finetune/config.py",
+      "sha256": "9368111b74a20d133c3daa591ef6db39eba97aa6ee7fb27481cb08217b489d7a"
+    },
+    {
+      "path": "finetune/qlib_test.py",
+      "sha256": "027c04211af371d6ac8408a0f17f4249fdef068c6ba23a8fd46a16ca71b4e875"
+    },
+    {
+      "path": "finetune/qlib_data_preprocess.py",
+      "sha256": "d699ca8e1ffcf0110670c1a89c1795ad77ffd0ad11851d24a9a9984c56fd221b"
+    },
+    {
+      "path": "examples/run_backtest_kronos.py",
+      "sha256": "3bb7865d4b9f87cce16fe6a4be7d660f51176ac6a635139a3110089836f0aa83"
+    },
+    {
+      "path": "examples/yuce/historical_backtest.py",
+      "sha256": "0f8dbd415b1621d844bca702c73f42f3f482ce325846a3e3e71be8a86be5db77"
+    },
+    {
+      "path": "tests/test_kronos_regression.py",
+      "sha256": "527e74d137c40e2567477754cda43c649552287bf11ab27a1e31ff0e3706a0c4"
+    },
+    {
+      "path": "tests/data/regression_input.csv",
+      "sha256": "aa5efe0121b7cc098db1a169ed38f9878681ef14a93c85d54a618fd073048899"
+    },
+    {
+      "path": "tests/data/regression_output_256.csv",
+      "sha256": "5064d09ef7fe186b9c2aeed9dfdf234721b4b182a8305d92db9d3d5d6b37f29e"
+    },
+    {
+      "path": "tests/data/regression_output_512.csv",
+      "sha256": "bb69a96cbfcf385ba433b8db7e9630b45a4b3032d091d12a7b0bac5996bad18b"
+    }
+  ]
+}

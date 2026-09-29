@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kronos 可视化界面"
+  short_description: "启动 Kronos 中英文界面，先询问语言，再加载行情与模型查看预测图"
+  default_prompt: "使用 $kronos-webui，先问我需要中文界面还是英文界面，再检查环境并启动可视化界面。"
