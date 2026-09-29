@@ -1,0 +1,43 @@
+# Python environments and downloaded runtimes
+.venv/
+.venv-*/
+venv/
+env/
+.runtime/
+
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local task files, generated results, and experiment checkpoints
+/work/
+/outputs/
+/experiments/
+/checkpoints/
+/runs/
+*.log
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Operating-system metadata and editor temporary files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+~$*
+
+# Bundled models/, figures/, skills/, and documentation remain tracked.
